@@ -1,7 +1,3 @@
-Sure! Here's a README file for your GitHub repository:
-
----
-
  Password Generator
 
  Table of Contents
